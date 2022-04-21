@@ -1,5 +1,4 @@
 # little-battleship
-<br>
 ## Battleship, simplistic
 <br>
 My little battleship game to learn Git.
